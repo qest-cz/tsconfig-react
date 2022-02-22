@@ -1,0 +1,9 @@
+{
+  "name": "@qest/tsconfig-react",
+  "version": "1.0.0",
+  "description": "Basic tsconfig for react applications",
+  "main": "tsconfig.json",
+  "repository": "https://github.com/qest-cz/tsconfig-react.git",
+  "author": "Lukas Vaic <lukas.vaic@qest.cz>",
+  "license": "MIT"
+}
