@@ -18,5 +18,6 @@
         "jsx": "react",
         "skipLibCheck": true,
         "esModuleInterop": true,
+        "noUncheckedIndexedAccess": true
     }
 }
